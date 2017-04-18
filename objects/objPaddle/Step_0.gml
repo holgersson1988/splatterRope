@@ -35,6 +35,7 @@ if (keyboard_check_pressed(vk_space))
 {
 	ropeCreator = instance_create_layer(x, y, layer, objRopeCreator);
 	ropeCreator.parent = id;
+	ropeCreator.gravityStrength = gravityStrength;
 	drawing = true;
 }
 if (keyboard_check_released(vk_space) && ropeCreator != noone)

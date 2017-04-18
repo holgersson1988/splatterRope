@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-parent = noone;
-gravityStrength = 0;
+phy_position_x = mouse_x;
+phy_position_y = mouse_y;

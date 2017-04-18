@@ -5,3 +5,5 @@ startX = xstart;
 startY = ystart;
 endX = xstart;
 endY = ystart;
+
+gravityStrength = 0;

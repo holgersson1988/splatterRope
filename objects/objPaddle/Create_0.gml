@@ -14,6 +14,8 @@ paint = paintMax;
 ropeCreator = noone;
 
 
+gravityStrength = -0.2;
+
 
 // Physics
 phy_fixed_rotation = true;

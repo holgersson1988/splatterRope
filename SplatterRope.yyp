@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "41367fb4-42aa-432f-a41f-ddd3489faaf1",
+            "Value": {
+                "id": "6a3de633-ba2e-4fc3-a4ed-89a8738afb0c",
+                "resourcePath": "objects\\objBox\\objBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "542ca7d7-cba1-4019-811b-5257c71ffe32",
             "Value": {
                 "id": "9b7c6dc8-326d-4188-86f7-b8a560d29c27",
@@ -116,6 +124,14 @@
                 "id": "bc2552b4-26ea-4a30-a8c0-bd804392f4aa",
                 "resourcePath": "views\\79183ded-076f-48d4-a2ee-01f3c55ccba2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b0be6f6-1e22-4534-a7ce-11f7771b02d4",
+            "Value": {
+                "id": "8fd96825-5e1f-4a5b-9ff3-d6c65162b8be",
+                "resourcePath": "sprites\\sprRopeVertical\\sprRopeVertical.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -215,6 +231,22 @@
             }
         },
         {
+            "Key": "b297537d-8fcb-4d9f-a12e-4d8a155087bb",
+            "Value": {
+                "id": "db883318-01d2-4a43-8fd2-05710c9239fe",
+                "resourcePath": "scripts\\scrCreateRopeLine\\scrCreateRopeLine.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b9adbae8-3e1c-4e64-a7e4-3820ed6ae20c",
+            "Value": {
+                "id": "f08e1bef-e0d7-4c54-a0fd-c18a89b00f8e",
+                "resourcePath": "sprites\\sprRopeHolder\\sprRopeHolder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba835063-18bc-46c6-aa73-398ac3c5ee8e",
             "Value": {
                 "id": "307d28f8-1e82-4677-97d4-62df42f997dd",
@@ -226,8 +258,16 @@
             "Key": "bfcec32a-e6c8-4903-9450-981123e832be",
             "Value": {
                 "id": "a4fc8a71-210c-44e3-a5e6-38f89f52743e",
-                "resourcePath": "sprites\\sprite_2\\sprite_2.yy",
+                "resourcePath": "sprites\\sprBox\\sprBox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c374113a-747b-4886-98ac-9f9ed9fbdd90",
+            "Value": {
+                "id": "78520527-3d8f-4373-a406-87fcb8daa9f7",
+                "resourcePath": "objects\\objRopeVertical\\objRopeVertical.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,6 +295,14 @@
             }
         },
         {
+            "Key": "e49d88dc-3cad-48df-8d36-814162218151",
+            "Value": {
+                "id": "dc77a729-ff13-45c8-aa8e-72b95eb8c05b",
+                "resourcePath": "objects\\objRopeHolder\\objRopeHolder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea40df6f-3e84-436b-ba26-0484f23bdea9",
             "Value": {
                 "id": "2dbbc6c9-7048-41f3-bb52-90c7d4206141",
@@ -274,7 +322,8 @@
     "script_order": [
         "d6e47944-3e01-47de-8297-bdac6e526b50",
         "93661bed-e63a-4fe0-adc9-a6ce101757eb",
-        "94094cd5-14de-423f-a437-ec571465e8a1"
+        "94094cd5-14de-423f-a437-ec571465e8a1",
+        "b297537d-8fcb-4d9f-a12e-4d8a155087bb"
     ],
     "tutorial": ""
 }
